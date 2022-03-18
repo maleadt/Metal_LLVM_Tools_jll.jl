@@ -16,7 +16,7 @@ The tarballs for `Metal_LLVM_Tools_jll.jl` have been built from these sources:
 
 `Metal_LLVM_Tools_jll.jl` is available for the following platforms:
 
-* `macOS aarch64 {llvm_version=13}` (`aarch64-apple-darwin-llvm_version+13`)
+* `macOS aarch64 {llvm_version=13.asserts}` (`aarch64-apple-darwin-llvm_version+13.asserts`)
 
 ## Products
 

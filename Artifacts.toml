@@ -8,3 +8,13 @@ os = "macos"
     [[Metal_LLVM_Tools.download]]
     sha256 = "5f67f7bcbd41d2b5564c476d8f168633569f87fc7da12f3ebfdbcdffbae0c10c"
     url = "https://github.com/maleadt/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.1.0+0/Metal_LLVM_Tools.v0.1.0.aarch64-apple-darwin-llvm_version+13.tar.gz"
+[[Metal_LLVM_Tools]]
+arch = "aarch64"
+git-tree-sha1 = "c29ab3820bd73fd75845dc33133281afea48ae79"
+lazy = true
+llvm_version = "13.asserts"
+os = "macos"
+
+    [[Metal_LLVM_Tools.download]]
+    sha256 = "b916fc50b8d1c116f7e24b202bee64db772fb96091acd4b7379609b8648480dc"
+    url = "https://github.com/maleadt/Metal_LLVM_Tools_jll.jl/releases/download/Metal_LLVM_Tools-v0.1.0+0/Metal_LLVM_Tools.v0.1.0.aarch64-apple-darwin-llvm_version+13.asserts.tar.gz"
